@@ -1,0 +1,9 @@
+server:
+  ssl:
+    enabled: false
+
+logging:
+  level:
+    root: INFO
+    org:
+      springframework: INFO
